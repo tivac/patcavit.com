@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Patrick Cavit</title>
+    <link rel="shortcut icon" href="/favicon.ico" />
+    <link rel="stylesheet"    href="/assets/patcavit.css" />
+    <link rel="stylesheet"    href="http://yui.yahooapis.com/3.9.1/build/cssnormalize/cssnormalize-min.css">
+</head>
+
+<body>
+    <div class="content">
+        <h1 class="name">patrick cavit</h1>
+
+        <p class="geo">Born &amp; raised in <span data-icon="&#xe005">Washington State</span></p>
+
+        <ol class="links">
+            <li>
+                <a href="/patrick_cavit_resume.txt" class="icon" data-icon="&#xe004">
+                    <span class="visuallyhidden">Resume</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://twitter.com/tivac" class="icon" data-icon="&#xe003">
+                    <span class="visuallyhidden">Twitter</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://github.com/tivac" class="icon" data-icon="&#xe000">
+                    <span class="visuallyhidden">GitHub</span>
+                </a>
+            </li>
+            <li>
+                <a href="https://secure.flickr.com/photos/tivac" class="icon" data-icon="&#xe002">
+                    <span class="visuallyhidden">Flickr</span>
+                </a>
+            </li>
+            <li>
+                <a href="http://www.linkedin.com/in/pcavit/" class="icon" data-icon="&#xe001">
+                    <span class="visuallyhidden">LinkedIn</span>
+                </a>
+            </li>
+        </ol>
+    </div>
+
+    <script src="http://yui.yahooapis.com/3.9.1/build/yui/yui-min.js"></script>
+    <script>
+        YUI().use("gallery-event-konami", "node", function(Y) {
+            Y.on("konami", function(e) {
+                Y.one(".name").set("text", "aaaaaaaaaaa");
+
+                Y.one("body").append("<div class='aaaaa'>aaaaa</div>");
+            }, Y.config.doc);
+        });
+    </script>
+</body>
+</html>

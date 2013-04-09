@@ -1,0 +1,55 @@
+Patrick Cavit                                   10413 170th Ave NE
+Phone: 360-224-1307                             Redmond, WA 98052
+Email: jobs@patcavit.com
+
+I am looking for a job that will allow me to flex the problem-solving
+skills I've built through the years by coming up with ingenious solutions to
+difficult problems using the web.
+
+Work Experience:
+
+ * Sep 2008 - Present : Senior Web Developer : ArenaNet
+   
+   Senior developer on a small team working on multiple projects both
+   customer-facing and internal. Projects include custom server-side 
+   JavaScript platform, multiple in-game features via embedded webkit and 
+   more traditional web-facing APIs and marketing sites. Also responsible
+   for hiring new team members and training of other developers.
+ 
+ * July 2007 - Sep 2008 : Web Developer : Yahoo!
+
+   One of three web developers responsible for the new Yahoo! Video's look
+   and feel. Responsibilities included not only layout and interactions but
+   also CSS/JS optimization, PHP framework programming, and working on the
+   PHP-based CMS used for editorial content on the site.
+
+ * Summer 2006 : Frontend Engineering Intern : Yahoo!
+
+   Acted as a part of the My Yahoo! team and contributed to development of a
+   brand-new interactive homepage. Work consisted of extensive client-side
+   programming mixed with Object-Oriented PHP. Was solely responsible for
+   implementing the look and feel of several components as well as realizing
+   UED designs.
+
+ * Sep 2003 - Feb 2007 : Web Application Developer : Restek Program at WWU
+
+   Developed and supported multiple web-based tools in support of both
+   Restek staff, students and other campus departments. Specialized in
+   integrating server-side programming with client-side scripting to produce
+   rich, degradable interfaces for web applications.
+
+Education:
+
+ * Sep 2001 - Jun 2007 : Western Washington University
+
+   BS in Computer Science. Took extra classes to receive Web Programming 
+   Certificate through the Internet Studies Center at WWU.
+
+General Programming Skills:
+
+ * Server & client JavaScript, both native and via libraries (YUI, jQuery)
+ * Progressive enhancement using unobtrusive JavaScript
+ * Advanced cross-browser page styling & layout using semantic HTML/CSS
+ * PHP-powered Web applications with a database or web-service backend
+ * Database theory as well as practical experience with MySQL
+ 
