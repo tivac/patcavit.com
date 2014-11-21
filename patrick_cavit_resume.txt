@@ -2,17 +2,25 @@ Patrick Cavit                                   10413 170th Ave NE
 Phone: 360-224-1307                             Redmond, WA 98052
 Email: jobs@patcavit.com
 
-I am looking for a job that will allow me to flex the problem-solving
-skills I've built through the years by coming up with ingenious solutions to
-difficult problems using the web.
+I'm interested in challenging tasks that force me to solve difficult problems
+using the web. I'm passionate about web performance, code quality, and working
+with a team of people that I can learn from every day.
 
 Work Experience:
 
- * Sep 2008 - Present : Senior Web Developer : ArenaNet
+ * Aug 2012 - Present : Web Programming Lead : ArenaNet
+ 
+   Lead programmer of an amazing group of web programmers responsible for
+   guildwars2.com, all game commerce functionality, and the rest of the
+   ArenaNet internet presence. Personally responsible for hiring, report career
+   development, long-term team direction, web architecture, R&D, and some actual
+   programming every so often.
+
+ * Sep 2008 - Aug 2012 : Senior Web Programmer : ArenaNet
    
    Senior developer on a small team working on multiple projects both
-   customer-facing and internal. Projects include custom server-side 
-   JavaScript platform, multiple in-game features via embedded webkit and 
+   customer-facing and internal. Projects include custom server-side
+   JavaScript platform, multiple in-game features via embedded webkit and
    more traditional web-facing APIs and marketing sites. Also responsible
    for hiring new team members and training of other developers.
  
@@ -42,7 +50,7 @@ Education:
 
  * Sep 2001 - Jun 2007 : Western Washington University
 
-   BS in Computer Science. Took extra classes to receive Web Programming 
+   BS in Computer Science. Took extra classes to receive Web Programming
    Certificate through the Internet Studies Center at WWU.
 
 General Programming Skills:
@@ -51,5 +59,4 @@ General Programming Skills:
  * Progressive enhancement using unobtrusive JavaScript
  * Advanced cross-browser page styling & layout using semantic HTML/CSS
  * PHP-powered Web applications with a database or web-service backend
- * Database theory as well as practical experience with MySQL
- 
+ * Database theory as well as practical experience with MySQL & some MSSQL
